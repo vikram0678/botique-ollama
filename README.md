@@ -45,6 +45,8 @@ botique-ollama/
 
 ---
 
+ ### Setup guide → [setup.md](setup.md)
+
 ## 🚀 Quick Start
 ```bash
 # 1. Clone the repo
@@ -54,10 +56,7 @@ cd botique-ollama
 # 2. Pull the model
 ollama pull llama3.2:1b
 
-# 3. Install dependencies
-pip install requests
-
-# 4. Run the chatbot
+# 3. Run the chatbot
 python chatbot.py
 ```
 
@@ -99,7 +98,3 @@ python chatbot.py
 - Setup guide → [setup.md](setup.md)
 
 ---
-
-## 👤 Author
-
-**Vikram** — [@vikram0678](https://github.com/vikram0678)

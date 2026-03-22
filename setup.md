@@ -9,14 +9,13 @@ Download from https://ollama.com and install for your OS.
 
 ## Step 2 — Pull the Model
 ```bash
-ollama pull llama3.2:3b
+ollama pull llama3.2:1b
 ```
 
-## Step 3 — Clone & Install Dependencies
+## Step 3 — Clone 
 ```bash
 git clone https://github.com/vikram0678/botique-ollama.git
 cd botique-ollama
-pip install requests datasets
 ```
 
 ## Step 4 — Run the Chatbot
